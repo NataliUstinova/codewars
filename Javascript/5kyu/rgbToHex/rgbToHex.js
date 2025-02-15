@@ -1,7 +1,7 @@
 // export default function rgbToHex(r, g, b) {
 //   function toHex(value) {
-//     value = Math.max(0, Math.min(255, value)); // Ограничение диапазона
-//     return value.toString(16).padStart(2, '0').toUpperCase(); // Преобразование в HEX
+//     value = Math.max(0, Math.min(255, value));
+//     return value.toString(16).padStart(2, '0').toUpperCase();
 //   }
 //
 //   return toHex(r) + toHex(g) + toHex(b);
