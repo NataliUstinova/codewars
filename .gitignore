@@ -1,0 +1,20 @@
+# 🚀 Node.js dependencies
+node_modules/
+npm-debug.log
+package-lock.json
+
+# 🚀 Jest test results
+coverage/
+jest.config.js
+*.log
+*.cache
+
+# 🚀 macOS system files
+.DS_Store
+
+# 🚀 Ignore compiled files
+dist/
+build/
+
+# 🚀 Ignore environment files
+.env
