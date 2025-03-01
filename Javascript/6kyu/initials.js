@@ -7,4 +7,5 @@ function abbrevName2(name){
   return name.split(' ').map(i => i[0].toUpperCase()).join('.')
 }
 
-console.log(abbrevName("Peter Harris"))
+console.log(abbrevName2("Peter Jackson"))
+
